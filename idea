@@ -1,0 +1,10 @@
+Scrape courses from osiris
+Let these courses be viewed and let the viewer add metadata (like/unlike, rating, color or tag)
+scraped courses can be accessed with username and password.
+use kivy as GUI (multi-platform incl. Android)
+Use scrapy (python2) for scraping XHR links to the courses
+login with forms
+try and limit requests per second!
+
+course access by scraping osiris,
+or accessing the courses through a database which consists of pre-scraped data?
